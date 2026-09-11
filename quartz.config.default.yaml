@@ -8,6 +8,7 @@ configuration:
     provider: plausible
   locale: en-US
   baseUrl: "guzhikkk.github.io/algorithms-notes"
+  ignorePatterns:
     - private
     - templates
     - .obsidian
