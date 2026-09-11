@@ -7,8 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
-  ignorePatterns:
+  baseUrl: "guzhikkk.github.io/algorithms-notes"
     - private
     - templates
     - .obsidian
